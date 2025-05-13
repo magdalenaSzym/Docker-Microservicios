@@ -1,4 +1,4 @@
-# 📚 Tutorial Microservicios-Docker - Sistema con Frontend Duplicado y Eureka
+# 📚 Tutorial Microservicios-Docker 
 
 Este repositorio contiene una arquitectura de microservicios utilizando Spring Boot, Spring Cloud (Eureka + Gateway), Angular y Docker Compose. 
 La finalidad de este proyecto es tener dos portales frontend similares que se comunican con el mismo backend.
