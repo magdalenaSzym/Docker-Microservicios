@@ -4,8 +4,9 @@ Este repositorio contiene una arquitectura de microservicios utilizando Spring B
 La finalidad de este proyecto es tener dos portales frontend similares que se comunican con el mismo backend.
 
 
-## 🧱 Estructura del Proyecto
+### 🧱 Estructura del Proyecto
 
+```
 ├── client/               # Frontend principal (Angular)
 ├── client2/              # Segundo frontend duplicado
 ├── tutorial-author/      # Microservicio: Autores
@@ -16,6 +17,7 @@ La finalidad de este proyecto es tener dos portales frontend similares que se co
 ├── tutorial-game/        # Microservicio: Juegos
 ├── tutorial-gateway/     # API Gateway con Spring Cloud
 ├── docker-compose.yml    # Orquestación de contenedores Docker
+```
 
 ## ⚙️ Tecnologías utilizadas
 
